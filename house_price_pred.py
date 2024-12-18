@@ -6,5 +6,6 @@ import sklearn
 
 df=pd.read_csv('canada_per_capita_income.csv')
 print(df.columns)
-max=df['year']['per capita income (US$)'==[df['per capita income (US$)'].max()]]
-print(max)
+max_income=df['per capita income (US$)'].max()
+year_max=df[df['per capita income (US$)']==max_income]['year'].values[0]
+print(year_max)
