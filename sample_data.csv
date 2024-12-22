@@ -1,9 +1,0 @@
-ID,Name,Age,Gender,Email,Joining Date,Salary,Department
-101,John Doe,28.0,Male,john.doe@example.com,2021-01-15,50000.5,HR
-102,Jane Smith,35.0,Female,jane.smith@example,2020-12-01,65000.0,Finance
-103,,30.0,Male,jack.jones@example.com,2022-03-10,,IT
-104,Emily Davis,,Female,,2021-07-18,70000.0,HR
-105,Michael Brown,-5.0,Male,mike.brown@example.com,2020-11-30,55000.0,Operations
-106,Sarah Wilson,40.0,Female,sarah.wilson@example.com,2019-05-20,80000.0,
-107,Chris Martin,33.0,Other,chris.martin@example.com,2023-08-25,,IT
-108,Alex Lee,29.0,Male,alex.lee@fake,2021-10-30,48000.0,IT
