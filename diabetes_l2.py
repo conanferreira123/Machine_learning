@@ -47,5 +47,5 @@ plt.show()
 #r2 score
 from sklearn.metrics import r2_score
 r2=r2_score(Y_test,reg_pred)
-#we get r2 score of 43.37% which is lower compared to that in plain linear regression 47.7%
+#we get r2 score of 51.2% which is higher than that in plain linear regression 47.7%.which indicates better performance
 print(f"r2 score is {r2}")
